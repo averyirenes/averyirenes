@@ -11,5 +11,5 @@
    
 - 👋 Hi, I’m @averyirenes
 - 👀 I’m interested in narrative development and design
-- 🌱 I’m currently learning Twine and CSS
+- 🌱 I’m currently learning Unreal Engine 5
 - 💞️ I’m looking to collaborate on script writing, game narration
